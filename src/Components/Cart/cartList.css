@@ -1,0 +1,33 @@
+.cart-quantity {
+  border: 1px solid gray;
+  margin: 10px;
+  padding: 1px 10px 1px 10px;
+}
+
+.cart-quantity-ctrl {
+  font-weight: bolder;
+  color: gray;
+  cursor: pointer;
+}
+
+.suffix {
+  font-size: 13px;
+  color: gray;
+}
+
+.continue {
+  color: gray;
+  text-decoration: none;
+}
+
+.continue:hover {
+  cursor: pointer;
+  color: green;
+  font-weight: bold;
+}
+
+footer {
+  background-color: rgb(245, 240, 240);
+  padding: 10px;
+  border-radius: 5px;
+}
